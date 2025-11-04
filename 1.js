@@ -160,3 +160,6 @@ if(variable1 != variable2) {
 let number = 4
 let verdadero =(number % 2 ==0)
 console.log(verdadero)
+
+
+// https://josebenitezalba.github.io/proyecto/
